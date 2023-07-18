@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Firestore CRUD</string>
+    <string name="bio_add_or_view">Bio ADD or VIEW</string>
+    <string name="todo">TODO</string>
+    <string name="todo1">TODO</string>
+    <string name="delete_all">Delete All</string>
+    <string name="todo2">TODO</string>
+    <string name="registration">REGISTRATION</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="submit">SUBMIT</string>
+    <string name="already_have_an_account_login">Already have an account? Login?</string>
+    <string name="loginpassword">Password</string>
+    <string name="todo3">TODO</string>
+    <string name="login">LOGIN</string>
+    <string name="username">UserName</string>
+    <string name="login1">LOGIN</string>
+    <string name="no_account_create_one">No Account? Create One?</string>
+    <string name="forgot_your_password">Forgot your password?</string>
+</resources>
